@@ -14,13 +14,22 @@
 翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
 翡翠台,http://66.181.39.224/ml.php?id=jade_twn
 中天新闻,http://107.151.203.111:2209/hls/zt.m3u8
+中天新闻,http://107.151.203.111:2209/hls/zt.m3u8
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+
+
+中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+
 中天亚洲台,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 东森财经新闻,https://fsv4.yj011.net/sat/tv571.flv
+东森财经新闻,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 东森财经新闻,http://66.181.39.224/ml.php?id=ettvcaijing_twn
+东森财经新闻,http://sc2022.stream-link.org/tv2306.php?id=t02
+东森财经新闻,
 东森戏剧,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156395&extension=ts
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 
@@ -32,9 +41,10 @@
 凤凰资讯,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156407&extension=ts
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 VIU TV,http://r.jdshipin.com/vSJvl
-J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
+
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
 J2,http://r.jdshipin.com/Nr5jq
+J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
 开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 半岛电视,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -53,7 +63,7 @@ DW news,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=992267&exten
 SKYnews,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=30504&extension=ts
 SKYnews,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
 SKYnews,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-BBC WORLD news,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 BBC WORLD news,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=75865&extension=ts
 BBC WORLD news,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=91766&extension=ts
 BBC WORLD news,http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
@@ -63,7 +73,7 @@ BBC WORLD news,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E941178
 BBC WORLD news,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC WORLD news,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 BBC WORLD news,https://cdn.lwuk.live/live/smil:lwukweb.smil/HasBahCa.m3u8
-
+BBC WORLD news,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 国家地理,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 八大戏剧台,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 八大戏剧台,八大戏剧台,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
@@ -185,8 +195,6 @@ CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 中视经典,http://66.181.39.224/ml.php?id=zhongshi_twn
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 中视,http://66.181.39.224/ml.php?id=zhongshihd_twn
-中视,
-中视,
 
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 
@@ -206,22 +214,21 @@ TVB J2,http://r.jdshipin.com/Nr5jq
 东森新闻5A,https://pull-l3-cny.douyincdn.com/third/YesLiveTV-84d68280-5cbb-4848-860d-7daf0057fd78.m3u8
 东森新闻美洲2A,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森新闻美洲3A,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-中天新闻1A,http://sc2022.stream-link.org/tv2306.php?id=t03
-中天新闻2A,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新闻3A,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新闻4A,http://107.151.203.111:2209/hls/zt.m3u8
-中天新闻5A,https://sc2022.stream-link.org/tv2306.php?id=t03
 中天新闻6A,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新闻7A,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新闻8A,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+中天新闻14A,http://tv.redrainl.site:9500/live.m3u8?c=3
+中天新闻3A,http://tv.redrainl.site:9500/live.m3u8?c=03
+中天新闻4A,http://107.151.203.111:2209/hls/zt.m3u8
+中天新闻1A,http://sc2022.stream-link.org/tv2306.php?id=t03
+中天新闻2A,http://tv.redrainl.site:9500/live.m3u8?c=03
+中天新闻5A,https://sc2022.stream-link.org/tv2306.php?id=t03
 中天新闻9A,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新闻10A,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新闻11A,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-
-
 中天新闻12A,http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.flv
 中天新闻13A,http://2023.stream-link.org/playlist/cti_news
-中天新闻14A,http://tv.redrainl.site:9500/live.m3u8?c=3
+
 中天亚洲1A,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 中天亚洲2A,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=571212
 中天亚洲3A,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
@@ -242,13 +249,14 @@ TVB J2,http://r.jdshipin.com/Nr5jq
 东森财经新闻A,http://66.181.39.224/ml.php?id=ettvcaijing_twn
 东森财经新闻A,https://sc2022.stream-link.org/tv2306.php?id=t02
 
-TVBS新闻A,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
+
 TVBS新闻A,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻A,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻A,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻A,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻A,http://sc2022.stream-link.org/tv2306.php?id=t13
 TVBS新闻A,https://sc2022.stream-link.org/tv2306.php?id=t13
+TVBS新闻A,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS新闻A,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 
 无线新闻1A,http://sc2022.stream-link.org/tv2306.php?id=h04
@@ -279,4 +287,26 @@ VIU TVA,http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F234491742344917
 VIU TVA,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 
 
+tvb 经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+tvb星河,http://113.117.74.28:8081/hls/137/index.m3u8
+tvb星河,http://113.117.74.12:8081/hls/135/index.m3u8
+tvb星河,http://103.112.191.9:880/LAOSAT1092.m3u8
+tvb星河,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
 
+tvb娱乐新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
+tvb娱乐新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
+tvb娱乐新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153504
+Euro news,http://93.184.1.249:8080/Euronews/index.m3u8
+Euro news,http://103.112.191.9:880/LAOSAT1073.m3u8
+
+CNN,USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+CNN,USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
+BBC NEWS UK,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/545/index.m3u8
+BBC NEWS UK,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=75865&extension=ts
+BBC NEWS UK,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/545/index.m3u8
+BBC NEWS UK,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC NEWS UK,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=176797
+BBC NEWS UK,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+GBN NEWS,https://sc2022.stream-link.org/tv2306.php?id=e16
+SKY NEWS UK,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
