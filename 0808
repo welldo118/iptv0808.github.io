@@ -19,8 +19,22 @@
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
 翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
 翡翠台,http://66.181.39.224/ml.php?id=jade_twn
+
+VIU TV,http://r.jdshipin.com/vSJvl
+J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
+J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
+J2,http://r.jdshipin.com/Nr5jq
+
+翡翠台A,http://r.jdshipin.com/n90gt
+翡翠台A,http://r.jdshipin.com/62WM7
+FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯台,http://107.151.203.111:2209/135/hk.php?id=fhzx#https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv#http://123.51.230.108:18580/.m3u8#p2p://generationnexxxt.com:19806/9601e432db8346318bc3f53bd6342b77
+凤凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw#https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://123.51.230.108:18581/.m3u8#p2p://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
+凤凰资讯,http://113.117.74.59:8081/hls/36/index.m3u8
+凤凰中文,http://113.117.74.59:8081/hls/37/index.m3u8
+凤凰香港,http://113.117.74.59:8081/hls/38/index.m3u8
 
 凤凰资讯,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156407&extension=ts
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
@@ -55,7 +69,7 @@
 
 中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 中天亚洲台,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
-
+中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 
@@ -96,6 +110,11 @@ J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
 TVB J2B,http://2022.stream-link.org/live/1869661640
+
+星河台,http://113.117.74.59:8081/hls/135/index.m3u8
+星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+
+
 半岛电视,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 半岛电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
@@ -104,6 +123,13 @@ al jazeera,https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 al jazeera,https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 al jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 NEWSMAX,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+FOX  NEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX  NEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
+Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 
 
@@ -219,6 +245,8 @@ CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 
 广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
 广州综合,http://88888.55555.io:2345/udp/239.253.43.71:5146
+番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+
 无线财经,http://107.167.12.58:27347/livehttpplay?channel_id=30019
 无线财经,http://107.167.12.58:27347/livehttpplay?channel_id=30022
 无线财经,http://107.167.12.58:27347/livehttpplay?channel_id=20121
