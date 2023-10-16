@@ -4,7 +4,13 @@
 无线新闻4A,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
 无线新闻1A,http://sc2022.stream-link.org/tv2306.php?id=h04
 
-
+中天D,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+中天D,http://2022.stream-link.org/playlist/cti_news
+中天D,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+中天D,http://sc2022.stream-link.org/tv2306.php?id=t03
+中天D,http://2022.stream-link.org/playlist/cti_news
+中天D,http://2023.stream-link.org/playlist/cti_news
+中天D,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
@@ -28,10 +34,19 @@
 翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
 翡翠台,http://66.181.39.224/ml.php?id=jade_twn
 
+
+Now新闻台,http://103.45.68.47/gy/gy645/xsj.php?id=now-news
 VIU TV,http://r.jdshipin.com/vSJvl
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
 J2,http://r.jdshipin.com/Nr5jq
+J2,http://103.45.68.47/gy/gy645/xsj.php?id=j2
+viutv,http://103.45.68.47/gy/gy645/xsj.php?id=viutv
+viutv6,http://103.45.68.47/gy/gy645/xsj.php?id=viutv6
+hoytv,http://103.45.68.47/gy/gy645/xsj.php?id=hoytv
+hoy资讯,http://103.45.68.47/gy/gy645/xsj.php?id=hoy-info
+rthk31,http://103.45.68.47/gy/gy645/xsj.php?id=rthk31
+rthk32,http://103.45.68.47/gy/gy645/xsj.php?id=rthk32
 
 翡翠台A,http://r.jdshipin.com/n90gt
 翡翠台A,http://r.jdshipin.com/62WM7
@@ -146,7 +161,43 @@ ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc
 TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
+翡翠D,http://103.45.68.47/gy/gy645/xsj.php?id=feicui
+无线新闻D,http://103.45.68.47/gy/gy645/xsj.php?id=tvb-news
+J2,http://103.45.68.47/gy/gy645/xsj.php?id=j2
+星河D,http://103.45.68.47/gy/gy645/xsj.php?id=tvb-xinghe
+娱乐新闻,http://103.45.68.47/gy/gy645/xsj.php?id=TVB ylxw
+千禧经典,http://103.45.68.47/gy/gy645/xsj.php?id=tvb-classic
+无线体育财经资讯,http://103.45.68.47/gy/gy645/xsj.php?id=tvb-finance
+粤语片D,http://103.45.68.47/gy/gy645/xsj.php?id=tvb-yueyu
+明珠,http://103.45.68.47/gy/gy645/xsj.php?id=pearl
+亚洲剧台,http://103.45.68.47/gy/gy645/xsj.php?id=tvb-asia-drama
+华语剧台,http://103.45.68.47/gy/gy645/xsj.php?id=tvb-drama
+凤凰卫视资讯台,http://103.45.68.47/gy/gy645/xsj.php?id=phtv-info
+凤凰卫视中文台,http://103.45.68.47/gy/gy645/xsj.php?id=phtv-cn
+凤凰卫视香港台,http://103.45.68.47/gy/gy645/xsj.php?id=phtv-hk
+Now 剧集台,http://103.45.68.47/gy/gy645/xsj.php?id=nowjjt
+Now 新闻台,http://103.45.68.47/gy/gy645/xsj.php?id=now-news
+Now 财经台,http://103.45.68.47/gy/gy645/xsj.php?id=now-finance
+Now 直播台,http://103.45.68.47/gy/gy645/xsj.php?id=now-direct
+天映HD,http://103.45.68.47/gy/gy645/xsj.php?id=celestial
+天映经典,http://103.45.68.47/gy/gy645/xsj.php?id=cccm
+viutv,http://103.45.68.47/gy/gy645/xsj.php?id=viutv
+viutv6,http://103.45.68.47/gy/gy645/xsj.php?id=viutv6
+hoytv,http://103.45.68.47/gy/gy645/xsj.php?id=hoytv
+hoy资讯,http://103.45.68.47/gy/gy645/xsj.php?id=hoy-info
+rthk31,http://103.45.68.47/gy/gy645/xsj.php?id=rthk31
+rthk32,http://103.45.68.47/gy/gy645/xsj.php?id=rthk32
+澳门莲花,http://103.45.68.47/gy/gy645/xsj.php?id=lotustv
+澳门资讯,http://103.45.68.47/gy/gy645/xsj.php?id=amzx
+星卫电影,http://103.45.68.47/gy/gy645/xsj.php?id=star-movies
+纬来电影,http://103.45.68.47/gy/gy645/xsj.php?id=videoland-movie
+东森电影,http://103.45.68.47/gy/gy645/xsj.php?id=ebc-movie
+卫视电影,http://103.45.68.47/gy/gy645/xsj.php?id=star-chinese-movies
+ELTA 影剧,http://103.45.68.47/gy/gy645/xsj.php?id=elta-drama
+好莱坞电影,http://103.45.68.47/gy/gy645/xsj.php?id=hollywood-tw
+龙祥电影,http://103.45.68.47/gy/gy645/xsj.php?id=lstime
+美亚电影,http://103.45.68.47/gy/gy645/xsj.php?id=meiah-movies
+台视,http://103.45.68.47/gy/gy645/xsj.php?id=ttv
 
 
 RT NEWS,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=149648&extension=ts
