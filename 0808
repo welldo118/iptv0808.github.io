@@ -35,6 +35,7 @@ CCTV-07,http://222.240.82.92:9901/tsfile/live/0007_1.m3u8
 新闻,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
+
 425香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 342RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 304RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
